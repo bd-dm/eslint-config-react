@@ -6,6 +6,9 @@
 	"repository": "https://github.com/bd-dm/eslint-config-react",
 	"author": "Dmitry Bardyshev",
   "license": "ISC",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/bd-dm"
+	},
   "devDependencies": {
     "eslint": ">=8",
     "eslint-config-airbnb": ">=19",
