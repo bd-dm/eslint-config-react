@@ -3,6 +3,7 @@
 ## Installation
 ```
 npm i -D @bd-dm/eslint-config-react
+npx install-peerdeps @bd-dm/eslint-config-react
 ```
 
 - Now, add extends to your `.eslintrc` file.
