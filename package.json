@@ -3,9 +3,8 @@
   "version": "0.0.1",
   "description": "ESLint config for React",
   "main": "index.js",
-  "scripts": {
-  },
-  "author": "Dmitry Bardyshev",
+	"repository": "https://github.com/bd-dm/eslint-config-react",
+	"author": "Dmitry Bardyshev",
   "license": "ISC",
   "devDependencies": {
     "eslint": ">=8",
