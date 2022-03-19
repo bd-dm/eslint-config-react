@@ -6,7 +6,6 @@
 
 ```
 npm i -D @bd-dm/eslint-config-react
-npx install-peerdeps --dev @bd-dm/eslint-config-react
 ```
 
 2. You will see several dependencies were installed. Now, create (or update) a `.eslintrc` file with the following content:
