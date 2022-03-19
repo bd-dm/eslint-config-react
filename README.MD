@@ -5,7 +5,7 @@
 npm i -D @bd-dm/eslint-config-react
 ```
 
-Now, add extends to your `.eslintrc` file.
+- Now, add extends to your `.eslintrc` file.
 
 ```json
 {
@@ -15,4 +15,4 @@ Now, add extends to your `.eslintrc` file.
 }
 ```
 
-3. Copy the `.prettierrc` file from this repository into your project folder
+- Copy the `.prettierrc` file from this repository into your project folder
