@@ -1,4 +1,4 @@
-# ESLint (and Prettier) config for React
+# ESLint + Prettier config for React w/ TypeScript
 
 ## Installing
 
