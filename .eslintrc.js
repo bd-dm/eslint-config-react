@@ -17,5 +17,16 @@ module.exports = {
 		"object-curly-spacing": ["error", "always"],
 		"array-bracket-spacing": ["error", "never"],
 		quotes: ["error", "double"],
+		"react/react-in-jsx-scope": "off",
+		"react/jsx-filename-extension": [
+			"error",
+			{ extensions: [".js", ".jsx", ".ts", ".tsx"] },
+		],
+		"react/function-component-definition": [
+			"error",
+			{
+				namedComponents: "arrow-function",
+			},
+		],
 	},
 };
