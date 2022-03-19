@@ -1,14 +1,11 @@
 # ESLint + Prettier config for React w/ TypeScript
 
-## Installing
-
-1. In project root folder, run:
-
+## Installation
 ```
 npm i -D @bd-dm/eslint-config-react
 ```
 
-2. You will see several dependencies were installed. Now, create (or update) a `.eslintrc` file with the following content:
+Now, add extends to your `.eslintrc` file.
 
 ```json
 {
@@ -18,4 +15,4 @@ npm i -D @bd-dm/eslint-config-react
 }
 ```
 
-3. Copy the .prettierrc file from this repository into your project folder
+3. Copy the `.prettierrc` file from this repository into your project folder
