@@ -1,6 +1,6 @@
 {
   "name": "@bd-dm/eslint-config-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint config for React",
   "main": "index.js",
   "repository": "https://github.com/bd-dm/eslint-config-react",
@@ -23,8 +23,8 @@
     "prettier": ">=2"
   },
   "peerDependencies": {
-		"@typescript-eslint/eslint-plugin": ">=5",
-		"@typescript-eslint/parser": ">=5",
+    "@typescript-eslint/eslint-plugin": ">=5",
+    "@typescript-eslint/parser": ">=5",
     "eslint": ">=8",
     "eslint-config-airbnb": ">=19",
     "eslint-config-prettier": ">=8",
