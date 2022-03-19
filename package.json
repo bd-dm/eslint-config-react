@@ -1,0 +1,32 @@
+{
+  "name": "@bd-dm/eslint-config-react",
+  "version": "0.0.1",
+  "description": "ESLint config for React",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Dmitry Bardyshev",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": ">=8",
+    "eslint-config-airbnb": ">=19",
+    "eslint-config-prettier": ">=8",
+    "eslint-plugin-import": ">=2",
+    "eslint-plugin-jsx-a11y": ">=6",
+    "eslint-plugin-prettier": ">=4",
+    "eslint-plugin-react": ">=7",
+    "eslint-plugin-react-hooks": ">=4",
+    "prettier": ">=2"
+  },
+  "peerDependencies": {
+    "eslint": ">=8",
+    "eslint-config-airbnb": ">=19",
+    "eslint-config-prettier": ">=8",
+    "eslint-plugin-import": ">=2",
+    "eslint-plugin-jsx-a11y": ">=6",
+    "eslint-plugin-prettier": ">=4",
+    "eslint-plugin-react": ">=7",
+    "eslint-plugin-react-hooks": ">=4",
+    "prettier": ">=2"
+  }
+}
