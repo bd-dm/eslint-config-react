@@ -54,5 +54,6 @@ module.exports = {
 		"react/prop-types": "off",
 		"react/default-props-match-prop-types": "off",
 		"react/jsx-no-useless-fragment": "off",
+		"jsx-a11y/label-has-associated-control": ["off"],
 	},
 };
