@@ -45,5 +45,7 @@ module.exports = {
 		"no-shadow": "off",
 		"@typescript-eslint/no-shadow": ["error"],
 		"react/require-default-props": "off",
+		"react/button-has-type": "off",
+		"react/jsx-props-no-spreading": "off",
 	},
 };
