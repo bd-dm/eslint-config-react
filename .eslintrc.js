@@ -50,5 +50,6 @@ module.exports = {
 		"@typescript-eslint/no-unused-vars": ["error"],
 		"react/prop-types": "off",
 		"react/default-props-match-prop-types": "off",
+		"react/jsx-no-useless-fragment": "off",
 	},
 };
