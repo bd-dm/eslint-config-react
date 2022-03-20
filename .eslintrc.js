@@ -49,5 +49,6 @@ module.exports = {
 		"no-unused-vars": "off",
 		"@typescript-eslint/no-unused-vars": ["error"],
 		"react/prop-types": "off",
+		"react/default-props-match-prop-types": "off",
 	},
 };
