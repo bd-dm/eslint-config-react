@@ -22,6 +22,9 @@ module.exports = {
 		browser: true,
 		node: true,
 	},
+	globals: {
+		JSX: true,
+	},
 	rules: {
 		"import/prefer-default-export": "off",
 		"import/extensions": "off",
