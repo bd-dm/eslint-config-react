@@ -19,6 +19,8 @@ module.exports = {
 	},
 	env: {
 		jest: true,
+		browser: true,
+		node: true,
 	},
 	rules: {
 		"import/prefer-default-export": "off",
