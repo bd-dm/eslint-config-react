@@ -1,6 +1,11 @@
 # ESLint + Prettier config for React w/ TypeScript
 
 ## Installation
+- Add GitHub registry to `.npmrc` file:
+```
+@bd-dm:registry=https://npm.pkg.github.com
+```
+- Install package and it's peer dependencies
 ```
 npm i -D @bd-dm/eslint-config-react
 npx install-peerdeps @bd-dm/eslint-config-react
